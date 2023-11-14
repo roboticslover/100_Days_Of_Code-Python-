@@ -5,5 +5,5 @@ avg(10, 20)
 
 # pass
 def something(a):
-    sqare = a**2
-    print(sqare)
+    pass
+
